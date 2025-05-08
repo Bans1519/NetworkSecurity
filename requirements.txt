@@ -3,6 +3,7 @@ numpy
 pymongo
 certifi
 python-dotenv
+pymongo[srv]==3.6
 
 
 ##-e .
